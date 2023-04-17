@@ -107,10 +107,3 @@ def api_update_snowboardDB():
     return 'Update request Successful' #  message confirming the update request
 
 app.run()
-
-# References
-# Blackboard files under class 3 and 5
-# https://www.restapitutorial.com/lessons/httpmethods.html#:~:text=The%20primary%20or%20most%2Dcommonly,but%20are%20utilized%20less%20frequently.
-# https://www.arubanetworks.com/techdocs/AOS-CX/10.10/HTML/rest_v10-0x/Content/Chp_REST_ref/put-met-usa-con-10.htm#:~:text=The%20PUT%20method%20updates%20an,afterward%20are%20called%20immutable%20attributes.
-# https://www.mscharhag.com/api-design/rest-deleting-resources
-# https://www.youtube.com/watch?v=tkfVQK6UxDI
